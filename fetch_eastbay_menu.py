@@ -1,3 +1,4 @@
+## This simple script fetches the easybaycafe.com menu and parses it
 from lxml import html
 import requests
 
